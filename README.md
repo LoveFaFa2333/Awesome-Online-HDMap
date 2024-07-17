@@ -3,9 +3,10 @@ Methods of online vector map for autonomous driving.
 # 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
-3. **Complementing Onboard Sensors with Satellite Maps: A New Perspective for HD Map Construction**. ICRA, 2024. [[paper](https://arxiv.org/pdf/2308.15427)] [[code](https://github.com/xjtu-cs-gao/SatforHDMap)]
+3. (**SatforHDMap**)Complementing Onboard Sensors with Satellite Maps: A New Perspective for HD Map Construction. ICRA, 2024. [[paper](https://arxiv.org/pdf/2308.15427)] [[code](https://github.com/xjtu-cs-gao/SatforHDMap)]
+4. (**GeMap**)Online Vectorized HD Map Construction Using Geometry. ECCV, 2024. [[paper](https://arxiv.org/pdf/2312.03341)] [[code](https://github.com/cnzzx/GeMap)][[project page](https://invictus717.github.io/GeMap/)]
 # 2023
-1. **End-to-end vectorized hd-map construction with piecewise bezier curve.** CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
+1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
 3. **Pivotnet**: Vectorized pivot learning for end-to-end hd map construction. ICCV, 2023. [[paper](https://arxiv.org/pdf/2308.16477)] [[code](https://github.com/wenjie710/PivotNet)]
 4. **Neural map prior for autonomous driving.** CVPR, 2023. [[paper](https://arxiv.org/pdf/2304.08481)] [[code](https://github.com/Tsinghua-MARS-Lab/neural_map_prior)] [[project page](https://tsinghua-mars-lab.github.io/neural_map_prior/)]
@@ -19,4 +20,4 @@ Methods of online vector map for autonomous driving.
 3. **Maptr**: Structured modeling and learning for online vectorized hd map construction. ICLR, 2023. [[paper](https://arxiv.org/abs/2208.14437)] [[code](https://github.com/hustvl/MapTR?tab=readme-ov-file)]
 
 # 2021
-1. **Structured bird's-eye-view traffic scene understanding from onboard images.** ICCV, 2021.[[paper](https://arxiv.org/pdf/2110.01997)][[code](https://github.com/ybarancan/STSU)][[project page](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/stsu.html)]
+1. (**STSU**)Structured bird's-eye-view traffic scene understanding from onboard images. ICCV, 2021.[[paper](https://arxiv.org/pdf/2110.01997)][[code](https://github.com/ybarancan/STSU)][[project page](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/stsu.html)]
