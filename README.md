@@ -12,6 +12,7 @@ Methods of online vector map for autonomous driving.
 5. **Instagram**: Instance-level graph modeling for vectorized hd map learning. arXiv preprint arXiv:2301.04470 (2023). [[paper](https://arxiv.org/pdf/2301.04470)]
 6. **Scalablemap**: Scalable map learning for online long-range vectorized hd map construction. arXiv preprint arXiv:2310.13378 (2023). [[paper](https://arxiv.org/pdf/2310.13378)][[code](https://github.com/jingy1yu/ScalableMap)]
 7. **Machmap**: End-to-end vectorized solution for compact hd-map construction. arXiv preprint arXiv:2306.10301 (2023). [[paper](https://arxiv.org/pdf/2306.10301)]
+8. (**MapVR**)Online Map Vectorization for Autonomous Driving: A Rasterization Perspective. NeurIPS, 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/654f61ecd998c9095d30d42c03b832aa-Paper-Conference.pdf)][[code](https://github.com/ZhangGongjie/MapVR)]
 # 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. PMLR, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
