@@ -3,6 +3,7 @@ Methods of online vector map for autonomous driving.
 # 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
+3. **Complementing Onboard Sensors with Satellite Maps: A New Perspective for HD Map Construction**. ICRA, 2024. [[paper](https://arxiv.org/pdf/2308.15427)] [[code](https://github.com/xjtu-cs-gao/SatforHDMap)]
 # 2023
 1. **End-to-end vectorized hd-map construction with piecewise bezier curve.** CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
