@@ -5,7 +5,8 @@ Methods of online vector map for autonomous driving.
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
 3. (**SatforHDMap**)Complementing Onboard Sensors with Satellite Maps: A New Perspective for HD Map Construction. ICRA, 2024. [[paper](https://arxiv.org/pdf/2308.15427)] [[code](https://github.com/xjtu-cs-gao/SatforHDMap)]
 4. (**GeMap**)Online Vectorized HD Map Construction Using Geometry. ECCV, 2024. [[paper](https://arxiv.org/pdf/2312.03341)] [[code](https://github.com/cnzzx/GeMap)][[project page](https://invictus717.github.io/GeMap/)]
-5. HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2403.08639)] [[code](https://github.com/BritaryZhou/HIMap)]
+5. **HIMap**: HybrId Representation Learning for End-to-end Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2403.08639)] [[code](https://github.com/BritaryZhou/HIMap)]
+6. **MGMap**: Mask-Guided Learning for Online Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2404.00876)] [[code](https://github.com/xiaolul2/MGMap)]
 # 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
