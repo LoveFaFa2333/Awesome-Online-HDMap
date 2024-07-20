@@ -17,7 +17,8 @@ Methods of online vector map for autonomous driving.
 7. **Machmap**: End-to-end vectorized solution for compact hd-map construction. arXiv preprint arXiv:2306.10301 (2023). [[paper](https://arxiv.org/pdf/2306.10301)]
 8. (**MapVR**)Online Map Vectorization for Autonomous Driving: A Rasterization Perspective. NeurIPS, 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/654f61ecd998c9095d30d42c03b832aa-Paper-Conference.pdf)][[code](https://github.com/ZhangGongjie/MapVR)]
 9. (**TopoNet**)Graph-based Topology Reasoning for Driving Scenes. arXiv preprint arXiv:2304.05277 (2023). [[paper](https://arxiv.org/pdf/2304.05277)][[code](https://github.com/OpenDriveLab/TopoNet)]
-10. (**SMERF**)Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps. arXiv preprint arXiv:2311.04079 (2023). [[paper](https://arxiv.org/pdf/2311.04079v1)] [code](https://github.com/NVlabs/SMERF)]
+10. (**LaneGAP**)Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2303.08815)][[code](https://github.com/hustvl/LaneGAP)]
+11. (**SMERF**)Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps. arXiv preprint arXiv:2311.04079 (2023). [[paper](https://arxiv.org/pdf/2311.04079v1)] [code](https://github.com/NVlabs/SMERF)]
 # 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. ICML, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
