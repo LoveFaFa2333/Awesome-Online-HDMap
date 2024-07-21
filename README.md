@@ -9,7 +9,7 @@ Methods of online vector map for autonomous driving. Please note that the year c
 6. **MGMap**: Mask-Guided Learning for Online Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2404.00876)] [[code](https://github.com/xiaolul2/MGMap)]
 7. (**MapQR**)Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2402.17430)] [[code](https://github.com/HXMap/MapQR)]
 8. (**MapBEVPrediction**)Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention. ECCV, 2024. [[paper](https://www.arxiv.org/pdf/2407.06683)] [[code](https://github.com/alfredgu001324/MapBEVPrediction)]
-9. **ADMap**: Anti-disturbance framework for vectorized HD map construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2401.13172)] [[code(https://github.com/hht1996ok/ADMap)]
+9. **ADMap**: Anti-disturbance framework for vectorized HD map construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2401.13172)] [[code](https://github.com/hht1996ok/ADMap)]
 # 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
