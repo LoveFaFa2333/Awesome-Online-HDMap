@@ -7,6 +7,9 @@ Methods of online vector map for autonomous driving. Please note that the year c
 4. (**GeMap**)Online Vectorized HD Map Construction Using Geometry. ECCV, 2024. [[paper](https://arxiv.org/pdf/2312.03341)] [[code](https://github.com/cnzzx/GeMap)][[project page](https://invictus717.github.io/GeMap/)]
 5. **HIMap**: HybrId Representation Learning for End-to-end Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2403.08639)] [[code](https://github.com/BritaryZhou/HIMap)]
 6. **MGMap**: Mask-Guided Learning for Online Vectorized HD Map Construction. CVPR, 2024. [[paper](https://arxiv.org/pdf/2404.00876)] [[code](https://github.com/xiaolul2/MGMap)]
+7. (**MapQR**)Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2402.17430)] [[code](https://github.com/HXMap/MapQR)]
+8. (**MapBEVPrediction**)Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention. ECCV, 2024. [[paper](https://www.arxiv.org/pdf/2407.06683)] [[code](https://github.com/alfredgu001324/MapBEVPrediction)]
+9. **ADMap**: Anti-disturbance framework for vectorized HD map construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2401.13172)] [[code(https://github.com/hht1996ok/ADMap)]
 # 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
@@ -19,6 +22,7 @@ Methods of online vector map for autonomous driving. Please note that the year c
 9. (**TopoNet**)Graph-based Topology Reasoning for Driving Scenes. arXiv preprint arXiv:2304.05277 (2023). [[paper](https://arxiv.org/pdf/2304.05277)][[code](https://github.com/OpenDriveLab/TopoNet)]
 10. (**LaneGAP**)Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction. ECCV, 2024. [[paper](https://arxiv.org/pdf/2303.08815)][[code](https://github.com/hustvl/LaneGAP)]
 11. (**SMERF**)Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps. arXiv preprint arXiv:2311.04079 (2023). [[paper](https://arxiv.org/pdf/2311.04079v1)] [code](https://github.com/NVlabs/SMERF)]
+12. **Bi-Mapper**: Holistic BEV Semantic Mapping for Autonomous Driving. RA-L, 2023. [[paper](https://arxiv.org/pdf/2305.04205)][[code](https://github.com/lynn-yu/Bi-Mapper)]
 # 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. ICML, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
