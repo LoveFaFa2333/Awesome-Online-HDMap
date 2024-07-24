@@ -12,6 +12,8 @@ Methods of online vector map for autonomous driving. Please note that the year c
 9. **MapTracker**: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping. ECCV, 2024. [[paper](https://arxiv.org/pdf/2403.15951)] [[code](https://github.com/woodfrog/maptracker)] [[project page](https://map-tracker.github.io/)]
 10. (**SQD-MapNet**)Stream Query Denoising for Vectorized HD Map Construction. arXiv preprint arXiv:2401.09112 (2024). [[paper](https://arxiv.org/pdf/2401.09112)]
 11. **P-MapNet**: Far-seeing Map ConstructorEnhanced by both SDMap and HDMap Priors. arXiv preprint arXiv:2403.10521 (2024). [[paper](https://arxiv.org/pdf/2403.10521)] [[code](https://github.com/jike5/P-MapNet)] [[project page](https://jike5.github.io/P-MapNet/)]
+12. **BLOS-BEV**: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight. IEEE IV, 2024. [[paper](https://arxiv.org/abs/2407.08526)]
+13. **LGmap**: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction. arXiv:2406.13988 (2024). [[paper](https://arxiv.org/pdf/2406.13988)]
 # 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
@@ -27,6 +29,8 @@ Methods of online vector map for autonomous driving. Please note that the year c
 12. **Bi-Mapper**: Holistic BEV Semantic Mapping for Autonomous Driving. RA-L, 2023. [[paper](https://arxiv.org/pdf/2305.04205)][[code](https://github.com/lynn-yu/Bi-Mapper)]
 13. **LaneSegNet**: Map Learning with Lane Segment Perception for Autonomous Driving. ICLR, 2024. [[paper](https://arxiv.org/pdf/2312.16108)][[code](https://github.com/OpenDriveLab/LaneSegNet)]
 14. **MV-Map**: Offboard HD-Map Generation with Multi-view Consistency. ICCV, 2023. [[paper](https://arxiv.org/pdf/2305.08851)] [[code](https://github.com/ZiYang-xie/MV-Map)]
+15. **NeMO**: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark. arXiv preprint arXiv:2306.04540 (2023). [[paper](https://arxiv.org/pdf/2306.04540)]
+16. **InsMapper**: Exploring Inner-instance Information for Vectorized HD Mapping. arXiv preprint arXiv:2308.08543 (2023). [[paper](https://arxiv.org/pdf/2308.08543)] [[code](https://github.com/TonyXuQAQ/InsMapper)] [[project page](https://tonyxuqaq.github.io/InsMapper/)] 
 # 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. ICML, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
