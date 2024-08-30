@@ -14,6 +14,10 @@ Methods of online vector map for autonomous driving. Please note that the year c
 11. **P-MapNet**: Far-seeing Map ConstructorEnhanced by both SDMap and HDMap Priors. arXiv preprint arXiv:2403.10521 (2024). [[paper](https://arxiv.org/pdf/2403.10521)] [[code](https://github.com/jike5/P-MapNet)] [[project page](https://jike5.github.io/P-MapNet/)]
 12. **BLOS-BEV**: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight. IEEE IV, 2024. [[paper](https://arxiv.org/abs/2407.08526)]
 13. **LGmap**: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction. arXiv:2406.13988 (2024). [[paper](https://arxiv.org/pdf/2406.13988)]
+14. **PriorMapNet**: Enhancing Online Vectorized HD Map Construction with Priors. arXiv preprint arXiv:2408.08802 (2024). [[paper](https://www.arxiv.org/pdf/2408.08802)]
+15. Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps. IROS, 2024. [[paper](https://www.arxiv.org/pdf/2408.01471)] [[project page](https://henryzhangzhy.github.io/sdhdmap/)]
+16. **LaneGraph2Seq**: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement. AAAI, 2024. [[paper](https://arxiv.org/pdf/2401.17609)] [[code](https://github.com/fudan-zvg/RoadNet)]
+17. **TopoLogic**: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes. arXiv preprint arXiv:2405.14747 (2024). [[paper](https://arxiv.org/pdf/2405.14747)] [[code](https://github.com/Franpin/TopoLogic)]
 # 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
@@ -30,7 +34,9 @@ Methods of online vector map for autonomous driving. Please note that the year c
 13. **LaneSegNet**: Map Learning with Lane Segment Perception for Autonomous Driving. ICLR, 2024. [[paper](https://arxiv.org/pdf/2312.16108)][[code](https://github.com/OpenDriveLab/LaneSegNet)]
 14. **MV-Map**: Offboard HD-Map Generation with Multi-view Consistency. ICCV, 2023. [[paper](https://arxiv.org/pdf/2305.08851)] [[code](https://github.com/ZiYang-xie/MV-Map)]
 15. **NeMO**: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark. arXiv preprint arXiv:2306.04540 (2023). [[paper](https://arxiv.org/pdf/2306.04540)]
-16. **InsMapper**: Exploring Inner-instance Information for Vectorized HD Mapping. arXiv preprint arXiv:2308.08543 (2023). [[paper](https://arxiv.org/pdf/2308.08543)] [[code](https://github.com/TonyXuQAQ/InsMapper)] [[project page](https://tonyxuqaq.github.io/InsMapper/)] 
+16. **InsMapper**: Exploring Inner-instance Information for Vectorized HD Mapping. arXiv preprint arXiv:2308.08543 (2023). [[paper](https://arxiv.org/pdf/2308.08543)] [[code](https://github.com/TonyXuQAQ/InsMapper)] [[project page](https://tonyxuqaq.github.io/InsMapper/)]
+17. (**RoadNet**)Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach. ICCV, 2023(Oral). [[paper](https://arxiv.org/pdf/2402.08207)] [[code](https://github.com/fudan-zvg/RoadNet)]
+18. **TopoMLP**: A Simple yet Strong Pipeline for Driving Topology Reasoning. ICLR, 2024. [[paper](https://arxiv.org/pdf/2310.06753)] [[code](https://github.com/wudongming97/TopoMLP)]
 # 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. ICML, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
