@@ -19,6 +19,8 @@ Methods of online vector map for autonomous driving. Please note that the year c
 15. Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps. IROS, 2024. [[paper](https://www.arxiv.org/pdf/2408.01471)] [[project page](https://henryzhangzhy.github.io/sdhdmap/)]
 16. **LaneGraph2Seq**: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement. AAAI, 2024. [[paper](https://arxiv.org/pdf/2401.17609)] [[code](https://github.com/fudan-zvg/RoadNet)]
 17. **TopoLogic**: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes. arXiv preprint arXiv:2405.14747 (2024). [[paper](https://arxiv.org/pdf/2405.14747)] [[code](https://github.com/Franpin/TopoLogic)]
+18. (**CGNet**)Continuity Preserving Online CenterLine Graph Learning. ECCV, 2024. [[paper](https://arxiv.org/pdf/2407.11337)] [[code](https://github.com/XiaoMi/CGNet)]
+19. Online Temporal Fusion for Vectorized Map Construction in Mapless Autonomous Driving. arXiv preprint arXiv:2409.00593 (2024). [[paper](https://arxiv.org/pdf/2409.00593)] 
 ## 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
@@ -41,10 +43,12 @@ Methods of online vector map for autonomous driving. Please note that the year c
 ## 2022
 1. **Hdmapnet**: An online hd map construction and evaluation framework. ICRA, 2022. [[paper](https://arxiv.org/pdf/2107.06307)] [[code](https://github.com/Tsinghua-MARS-Lab/HDMapNet)] [[project page](https://tsinghua-mars-lab.github.io/HDMapNet/)] 
 2. **Vectormapnet**: End-to-end vectorized hd map learning. ICML, 2023. [[paper](https://arxiv.org/pdf/2206.08920)] [[code](https://github.com/Mrmoore98/VectorMapNet_code)][[project page](https://tsinghua-mars-lab.github.io/vectormapnet/)]
-3. **Maptr**: Structured modeling and learning for online vectorized hd map construction. ICLR, 2023. [[paper](https://arxiv.org/abs/2208.14437)] [[code](https://github.com/hustvl/MapTR?tab=readme-ov-file)]
+3. **CenterLineDet**: CenterLine Graph Detection for Road Lanes with Vehicle-mounted Sensors by Transformer for HD Map Generation. ICRA, 2023. [[paper](https://arxiv.org/pdf/2209.07734)] [[code](https://github.com/TonyXuQAQ/CenterLineDet)] [[project page](https://tonyxuqaq.github.io/projects/CenterLineDet/)]
+4. **Maptr**: Structured modeling and learning for online vectorized hd map construction. ICLR, 2023. [[paper](https://arxiv.org/abs/2208.14437)] [[code](https://github.com/hustvl/MapTR?tab=readme-ov-file)]
 
 ## 2021
 1. (**STSU**)Structured bird's-eye-view traffic scene understanding from onboard images. ICCV, 2021.[[paper](https://arxiv.org/pdf/2110.01997)][[code](https://github.com/ybarancan/STSU)][[project page](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/stsu.html)]
+2. (**TPLR**)Topology Preserving Local Road Network Estimation from Single Onboard Camera Image. CVPR, 2022. [[paper](https://arxiv.org/pdf/2112.10155)] [[code](https://github.com/ybarancan/TopologicalLaneGraph)]
 
 # Classified by task
 todo
