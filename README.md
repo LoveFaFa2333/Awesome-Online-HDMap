@@ -1,5 +1,5 @@
-# Awesome-Online-Vector-Map
-Methods of online vector map for autonomous driving. Please note that the year classification is based on the published time on arxiv.
+# Awesome-Online-HDMap
+Methods of online HDmap for autonomous driving. Please note that the year classification is based on the published time on arxiv.
 # Classified by timeline
 ## 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
