@@ -28,6 +28,8 @@ Methods of online HDmap for autonomous driving. Please note that the year classi
 26. (**Topo2d**)Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors. arXiv preprint arXiv:2406.03105 (2024). [[paper](https://arxiv.org/pdf/2406.03105)] [[code](https://github.com/homothetic/Topo2D)]
 27. (**HRMapNet**)Enhancing Vectorized Map Perception with Historical Rasterized Maps. ECCV, 2024. [[paper](https://arxiv.org/pdf/2409.00620)] [[code](https://github.com/HXMap/HRMapNet)]
 28. Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping. arXiv preprint arXiv:2409.05352 (2024). [[paper](https://arxiv.org/pdf/2409.05352v2)]
+29. **GenMapping**: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction. arXiv preprint arXiv:2409.08688 (2024). [[paper](https://arxiv.org/pdf/2409.08688)] [[code](https://github.com/lynn-yu/GenMapping)]
+30. **ExelMap**: Explainable Element-based HD-Map Change Detection and Update. arXiv preprint arXiv:2409.10178 (2024). [[paper](https://www.arxiv.org/pdf/2409.10178)]
 ## 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
