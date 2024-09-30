@@ -1,6 +1,6 @@
 # Awesome-Online-HDMap
-Methods of online HDmap for autonomous driving. Please note that the year classification is based on the published time on arxiv.
 # Classified by timeline
+Methods of online HDmap for autonomous driving. Please note that the year classification is based on the published time on arxiv. 
 ## 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
@@ -30,6 +30,8 @@ Methods of online HDmap for autonomous driving. Please note that the year classi
 28. Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping. arXiv preprint arXiv:2409.05352 (2024). [[paper](https://arxiv.org/pdf/2409.05352v2)]
 29. **GenMapping**: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction. arXiv preprint arXiv:2409.08688 (2024). [[paper](https://arxiv.org/pdf/2409.08688)] [[code](https://github.com/lynn-yu/GenMapping)]
 30. **ExelMap**: Explainable Element-based HD-Map Change Detection and Update. arXiv preprint arXiv:2409.10178 (2024). [[paper](https://www.arxiv.org/pdf/2409.10178)]
+31. **GlobalMapNet**: An Online Framework for Vectorized Global HD Map Construction. arXiv preprint arXiv:2409.10063 (2024). [[paper](https://www.arxiv.org/pdf/2409.10063)]
+32. **DTCLMapper**: Dual Temporal Consistent Learning for Vectorized HD Map Construction. T-ITS, 2024. [[paper](https://arxiv.org/pdf/2405.05518)]
 ## 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
