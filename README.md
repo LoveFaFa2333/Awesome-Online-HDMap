@@ -34,6 +34,10 @@ Methods of online HDmap for autonomous driving. Please note that the year classi
 32. **DTCLMapper**: Dual Temporal Consistent Learning for Vectorized HD Map Construction. T-ITS, 2024. [[paper](https://arxiv.org/pdf/2405.05518)]
 33. Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models. CVPR 2024, Workshop on Autonomous Driving. [[paper](https://arxiv.org/pdf/2406.01961)]
 34. (**MapEX**)Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data. arXiv preprint arXiv:2311.10517 (2024). [[paper](https://arxiv.org/pdf/2311.10517)]
+35. (**MapDR**)Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map. arXiv preprint arXiv:2410.23780 (2024). [[paper](https://arxiv.org/pdf/2410.23780)]
+36. Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors. arXiv preprint arXiv:2411.17161 (2024). [[paper](https://arxiv.org/pdf/2411.17161)]
+37. **MGMapNet**: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction. arXiv preprint arXiv:2410.07733 (2024). [[paper](https://arxiv.org/pdf/2410.07733)]
+38. **OpenSatMap**: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction.NeurIPS 2024. [[paper](https://arxiv.org/pdf/2410.23278)]  [[code](https://github.com/OpenSatMap/OpenSatMap-offical)] [[project page](https://opensatmap.github.io)] 
 ## 2023
 1. (**BeMapNet**)End-to-end vectorized hd-map construction with piecewise bezier curve. CVPR, 2023. [[paper](https://arxiv.org/abs/2306.09700)] [[code](https://github.com/er-muyue/BeMapNet)]
 2. **Maptrv2**: An end-to-end framework for online vectorized hd map construction. arXiv preprint arXiv:2308.05736 (2023). [[paper](https://arxiv.org/pdf/2308.05736)] [[code](https://github.com/hustvl/MapTR/tree/maptrv2?tab=readme-ov-file)]
