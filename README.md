@@ -1,6 +1,8 @@
 # Awesome-Online-HDMap
 # Classified by timeline
 Methods of online HDmap for autonomous driving. Please note that the year classification is based on the published time on arxiv. 
+## 2025
+1. **MapFusion**: A Novel BEV Feature Fusion Network for Multi-modal Map Construction. arXiv preprint arXiv:2502.04377 (2025). [[paper](https://www.arxiv.org/pdf/2502.04377)]
 ## 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
