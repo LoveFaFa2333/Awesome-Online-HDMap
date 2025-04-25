@@ -71,6 +71,3 @@ Methods of online HDmap for autonomous driving. Please note that the year classi
 ## 2021
 1. (**STSU**)Structured bird's-eye-view traffic scene understanding from onboard images. ICCV, 2021.[[paper](https://arxiv.org/pdf/2110.01997)][[code](https://github.com/ybarancan/STSU)][[project page](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/stsu.html)]
 2. (**TPLR**)Topology Preserving Local Road Network Estimation from Single Onboard Camera Image. CVPR, 2022. [[paper](https://arxiv.org/pdf/2112.10155)] [[code](https://github.com/ybarancan/TopologicalLaneGraph)]
-
-# Classified by task
-todo
